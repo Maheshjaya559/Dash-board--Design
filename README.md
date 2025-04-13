@@ -51,6 +51,7 @@ Light Blue: Master’s Degree
 Indicates salary variance based on education level.
 
 Design Elements:
+
 Clean layout with light blue background for readability.
 
 Titles and sections are clearly labeled for user guidance.
@@ -60,6 +61,7 @@ Use of slicers (top right) allows interactive filtering.
 Custom fonts and shadow boxes used for title emphasis.
 
 Insights:
+
 The organization has a young and growing workforce.
 
 Salary is positively correlated with qualification.
